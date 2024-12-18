@@ -2,6 +2,9 @@
 # CLASES COMPILADAS
 *.class
 
+#Clases de Test
+*Test.java
+
 #CARPETA BINARIOS
 bin/
 
